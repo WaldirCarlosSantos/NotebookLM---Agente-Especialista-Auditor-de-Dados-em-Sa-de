@@ -1,0 +1,41 @@
+Notebook,Prioridade,Título,URL,Observação
+Regulação,Essencial,Portal AnvisaLegis,https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-lanca-seu-novo-portal-de-legislacao-o-anvisalegis,Base normativa
+Regulação,Essencial,Legislação Anvisa (institucional),https://www.gov.br/anvisa/pt-br/setorregulado/recursos-administrativos/2a-instancia/legislacao,Portal oficial
+Regulação,Essencial,Farmacopeia Brasileira,https://www.gov.br/anvisa/pt-br/assuntos/farmacopeia/farmacopeia-brasileira,Página oficial
+Regulação,Essencial,CFF (Ética e BPF),https://site.cff.org.br,Site oficial
+Regulação,Essencial,CONITEC Protocolos/PCDT,https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/protocolos-clinicos-e-diretrizes-terapeuticas,Portal oficial
+Regulação,Essencial,RDC 658/2022 (BPF Geral),https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/legislacao-antigo/bibliotecas-tematicas/arquivos/medicamentos,Norma técnica
+Regulação,Essencial,RDC 67/2007 (Manipulação),https://www.cff.org.br/userfiles/file/RDC67.pdf,Norma técnica
+Regulação,Essencial,RDC 751/2022 (Dispositivos),https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/legislacao/bibliotecas-tematicas/arquivos/dispositivos-medicos,Norma técnica
+Regulação,Essencial,RDC 850/2024 (BPF),https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/legislacao/bibliotecas-tematicas/arquivos/boas-praticas,Norma técnica
+Regulação,Essencial,RDC 1000/2025 (Receita eletrônica),https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/legislacao/bibliotecas-tematicas/arquivos/receita-eletronica,Norma técnica
+Dados,Essencial,Portal Dados Abertos SUS,https://dadosabertos.saude.gov.br,Dados abertos
+Dados,Essencial,OpenDataSUS,https://opendatasus.saude.gov.br/es_AR/user/dadosabertos,Repositório
+Dados,Essencial,Manual TABNET,https://datasus.saude.gov.br/informacoes-de-saude-tabnet/,Manual oficial
+Dados,Essencial,Manual API e-SUS,https://datasus.saude.gov.br/wp-content/uploads/2022/02/Manual-de-Utilizacao-da-API-e-Sus-Notifica.pdf,Manual técnico
+Dados,Essencial,Dicionário e-SUS,https://datasus.saude.gov.br/wp-content/uploads/2022/07/Dicionario-de-dados_API-E-SUS-Notifica_08_10_21-1-1e.pdf,Documento técnico
+Dados,Essencial,VigiMed,https://www.gov.br/anvisa/pt-br/assuntos/fiscalizacao-e-monitoramento/notificacoes/vigimed,Farmacovigilância
+Dados,Essencial,Boletim Rede Sentinela,https://www.gov.br/anvisa/pt-br/assuntos/fiscalizacao-e-monitoramento/rede-sentinela/boletim/1deg-boletim-informativo-da-rede-se,Relatório
+Dados,Essencial,CNES Dados Abertos,https://cnes.datasus.gov.br/dados,Cadastro
+Dados,Essencial,SIM (Mortalidade),https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sim,Dados oficiais
+Dados,Essencial,SIH/SIA Produção,https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sih,Faturamento
+Auditoria,Essencial,TCU Saúde,https://portal.tcu.gov.br/saude-e-bem-estar/,Governança
+Auditoria,Essencial,Revista TCU (Auditoria SUS),https://revista.tcu.gov.br/ojs/index.php/RTCU/article/download/2130/1983/4484,Artigo
+Auditoria,Essencial,Referencial Governança TCU,https://portal.tcu.gov.br/governanca/referencial-basico-de-governanca-organizacional.htm,Manual
+Auditoria,Essencial,Manual Auditoria SUS,https://www.gov.br/saude/pt-br/assuntos/noticias/2026/fevereiro/ministerio-da-saude-lanca-primeiro-manual-de-auditoria-do-sus-e-,Manual oficial
+Auditoria,Essencial,Dados Abertos ANS,https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-abertos-1,Indicadores
+Auditoria,Essencial,Indicadores Glosa ANS,https://www.gov.br/ans/pt-br/assuntos/noticias/operadoras/dados-abertos-ans-lanca-novo-conjunto-sobre-indicadores-de-glosa,Notícia
+Auditoria,Essencial,Dados Abertos EBSERH,https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-centro-oeste/hu-ufgd/acesso-a-informacao/dados-abertos,Dados
+Auditoria,Essencial,SISAUD,https://snaautentica.saude.gov.br,Sistema
+Auditoria,Essencial,Decreto 1.651/1995,https://www.planalto.gov.br/ccivil_03/decreto/d1651.htm,Lei
+Auditoria,Essencial,Lei 8.689/1993,https://www.planalto.gov.br/ccivil_03/leis/l8689.htm,Lei
+Métodos,Essencial,ISPOR Oficial,https://www.ispor.org,Site
+Métodos,Essencial,ISPOR Economic Evaluation,https://www.ispor.org/heor-resources/good-practices/economic-evaluation,Prática
+Métodos,Essencial,ISPOR Good Practices,https://www.ispor.org/heor-resources/good-practices/,Prática
+Métodos,Essencial,ISPOR Brasil,https://ispor.org.br,Local
+Métodos,Essencial,Diretriz Econômica CONITEC,https://www.gov.br/conitec/pt-br/midias/artigos_publicacoes/diretrizes/diretriz-de-avaliacao-economica.pdf,Manual
+Métodos,Essencial,Diretrizes Metodológicas BVSMS,https://bvsms.saude.gov.br/bvs/publicacoes/diretrizes_metodologicas_diretriz_avaliacao_economica.pdf,Manual
+Métodos,Essencial,Análise Custo-Efetividade,https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude,Conceito
+Métodos,Essencial,Inferência Causal ISPOR,https://www.ispor.org/heor-resources/good-practices/article/causal-inference-methods-in-health-economics-and-outcomes-research,Prática
+Métodos,Essencial,Glossário Economia Saúde,https://bvsms.saude.gov.br/bvs/publicacoes/glossario_economia_saude.pdf,Termo
+Métodos,Essencial,Relatório Tendências HEOR,https://www.ispor.org/heor-resources/good-practices/article/applying-health-economics-and-outcomes-research-methods-in-value-bas,Visão
